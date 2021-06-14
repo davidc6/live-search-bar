@@ -1,5 +1,7 @@
 # Live search bar
 
+This project is currently being developed.
+
 ## Documentation
 
 To run the application type `npm start` when in the project folder. Open a browser and type [http://localhost:3000/](http://localhost:3000/)
